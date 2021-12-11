@@ -1,0 +1,12 @@
+this is dogheadOS help file
+the command list:
+test ------ output hello world!
+clear ----- clear the screen
+cat -------outputfile
+ls ----------- output file list
+calc --------- add sub mul div
+welcome to we bbs:https://118.31.248.215/
+
+have fun!!!!~
+            by min0911_
+            2021/12/4
